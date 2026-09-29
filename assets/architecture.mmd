@@ -1,0 +1,12 @@
+flowchart LR
+    U[Pessoa usuária] --> UI[Streamlit]
+    UI --> S[FinancialAssistant]
+    S --> G{Guardrails}
+    G -->|permitido| K[KnowledgeBase]
+    G -->|bloqueado| R[Resposta segura]
+    K --> A[Analytics determinístico]
+    K --> C[Context Builder]
+    C --> L[Ollama / LLM local]
+    L --> V[Validação]
+    V --> UI
+    A --> C
