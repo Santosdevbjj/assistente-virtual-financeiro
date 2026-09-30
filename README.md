@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/Santosdevbjj/assistente-virtual-financeiro/actions/workflows/ci.yml/badge.svg)](https://github.com/Santosdevbjj/assistente-virtual-financeiro)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-red.svg)](assistente-virtual-financeiro-com-ia.streamlit.app/)
 [![LLM](https://img.shields.io/badge/LLM-Ollama%20%7C%20local-green.svg)](https://ollama.com/)
 
 ## 1. Problema de negócio
