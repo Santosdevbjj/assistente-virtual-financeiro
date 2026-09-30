@@ -350,9 +350,35 @@ O projeto também evidencia uma diferença importante entre protótipo e produç
 
 O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md). O desafio orienta dividir a apresentação entre problema, solução, demonstração e diferencial/impacto. fileciteturn1file8L548-L568
 
-## 15. Assistente Financeiro Jorge - Funcionando
 
- --- INSERIR IMAGENS AQUI
+## 15. Jorge Assistente Financeiro - Funcionando
+
+https://assistente-virtual-financeiro-com-ia.streamlit.app/
+
+
+<p align="center">
+  <img src="assets/jorge-assistente-virtual-financeiro01.png" width="55%" alt="Tela inicial de Jorge o assistente financeiro">
+</p>
+
+
+
+<p align="center">
+  <img src="assets/jorge-assistente-virtual-financeiro02.png" width="55%" alt="Tela inicial de Jorge o assistente financeiro">
+</p>
+
+
+
+<p align="center">
+  <img src="assets/jorge-assistente-virtual-financeiro03.png" width="55%" alt="Tela inicial de Jorge o assistente financeiro">
+</p>
+
+
+
+<p align="center">
+  <img src="assets/jorge-assistente-virtual-financeiro04.png" width="55%" alt="Tela inicial de Jorge o assistente financeiro">
+</p>
+
+ 
 
 ## 16. Limitações
 
