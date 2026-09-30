@@ -12,7 +12,7 @@ from assistant.llm import OllamaClient
 from assistant.service import FinancialAssistant
 from assistant.analytics import financial_summary
 
-st.set_page_config(page_title="Nexo — Assistente Financeiro", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="Jorge — Assistente Financeiro", page_icon="🤖", layout="wide")
 
 
 @st.cache_resource
@@ -31,7 +31,7 @@ def load_assistant():
 assistant, kb = load_assistant()
 summary = financial_summary(kb.transactions, kb.profile)
 
-st.title("🤖 Nexo — Assistente Virtual Financeiro")
+st.title("🤖 Jorge — Assistente Virtual Financeiro")
 st.caption("Educação financeira contextualizada • Dados fictícios • Sem recomendação de investimentos")
 
 with st.sidebar:
