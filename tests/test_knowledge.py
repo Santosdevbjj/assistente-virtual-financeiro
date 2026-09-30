@@ -1,5 +1,5 @@
 def test_knowledge_loads(knowledge):
-    assert knowledge.profile.nome == "João Silva"
+    assert knowledge.profile.nome == "Miguel Rafael Gabriel Santos"
     assert len(knowledge.transactions) == 10
     assert len(knowledge.history) == 5
     assert len(knowledge.products) == 5
