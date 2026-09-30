@@ -1,5 +1,14 @@
 # 🤖 Assistente Virtual Financeiro
 
+
+## Bootcamp Bradesco - GenAI, Dados & Cyber.
+
+
+<img width="106" height="120" alt="1000133106" src="https://github.com/user-attachments/assets/72dc7415-9ffe-4a9d-9d08-fe5887bc4102" />
+
+---
+
+
 > Assistente financeiro educativo com IA generativa, dados mockados e guardrails determinísticos para transformar informações financeiras em explicações claras, contextualizadas e auditáveis.
 
 [![CI](https://github.com/Santosdevbjj/assistente-virtual-financeiro/actions/workflows/ci.yml/badge.svg)](https://github.com/Santosdevbjj/assistente-virtual-financeiro)
@@ -360,3 +369,11 @@ A base de dados fornecida pelo desafio é fictícia e foi usada como material de
 ## Licença
 
 MIT. Consulte [`LICENSE`](LICENSE).
+
+
+--- 
+   
+**Autor:** Sérgio Santos — Cientista de Dados | Ambientes Críticos e Governança de Dados
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://portfoliosantossergio.vercel.app)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
