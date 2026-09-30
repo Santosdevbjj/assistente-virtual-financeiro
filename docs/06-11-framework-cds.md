@@ -1,6 +1,6 @@
 # Framework CDS — 11 passos adaptados ao projeto
 
-O material de Meigarom apresenta uma estrutura que transforma uma análise/projeto de dados em uma narrativa de problema, evidência, solução, performance e produção. Para este projeto de IA generativa, os passos foram adaptados sem fingir que existe treinamento de modelo próprio.
+O material apresenta uma estrutura que transforma uma análise/projeto de dados em uma narrativa de problema, evidência, solução, performance e produção. Para este projeto de IA generativa, os passos foram adaptados sem fingir que existe treinamento de modelo próprio.
 
 ## 1. Problema de negócio
 
