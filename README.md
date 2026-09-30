@@ -350,9 +350,9 @@ O projeto também evidencia uma diferença importante entre protótipo e produç
 
 O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md). O desafio orienta dividir a apresentação entre problema, solução, demonstração e diferencial/impacto. fileciteturn1file8L548-L568
 
-## 15. Arquitetura
+## 15. Assistente Financeiro Jorge - Funcionando
 
- [`assets/architecture.mmd`](assets/architecture.mmd)
+ --- INSERIR IMAGENS AQUI
 
 ## 16. Limitações
 
