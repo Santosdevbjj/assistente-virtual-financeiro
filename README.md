@@ -20,7 +20,7 @@
 
 Informações financeiras pessoais podem estar espalhadas entre transações, metas, perfil de risco e histórico de atendimento. O desafio não é apenas responder perguntas: é transformar esses dados em **contexto compreensível para apoiar educação e organização financeira**, sem inventar informações ou ultrapassar o limite de uma solução educacional.
 
-O projeto parte do desafio proposto no material `DesafioProjetoBra01.pdf`, que pede um assistente capaz de conversar com a pessoa usuária, compreender uma necessidade e responder com base em informações organizadas, com atenção especial a segurança e anti-alucinação. fileciteturn0file0L24-L32
+O projeto parte do desafio proposto no material `DIO`, que pede um assistente capaz de conversar com a pessoa usuária, compreender uma necessidade e responder com base em informações organizadas, com atenção especial a segurança e anti-alucinação. fileciteturn0file0L24-L32
 
 ## 2. Objetivo
 
