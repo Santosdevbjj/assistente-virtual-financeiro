@@ -8,7 +8,7 @@ A pessoa possui informações financeiras, mas pode ter dificuldade para transfo
 
 ### Solução
 
-O Nexo combina:
+O Jorge combina:
 
 - perfil fictício;
 - transações;
@@ -28,7 +28,7 @@ A resposta é construída a partir de contexto controlado.
 
 ## Persona
 
-**Nome:** Nexo
+**Nome:** Jorge 
 
 **Personalidade:** educativo, claro, cuidadoso e direto.
 
@@ -38,7 +38,7 @@ A resposta é construída a partir de contexto controlado.
 
 **Saudação**
 
-> Olá! Sou o Nexo. Posso ajudar a entender seus gastos, metas e conceitos financeiros usando os dados fictícios desta demonstração.
+> Olá! Sou o Jorge. Posso ajudar a entender seus gastos, metas e conceitos financeiros usando os dados fictícios desta demonstração.
 
 **Limitação**
 
@@ -92,4 +92,4 @@ O desafio enfatiza que, no domínio financeiro, o agente não deve inventar info
 
 ## Limitações declaradas
 
-O Nexo não é um consultor financeiro, não movimenta dinheiro, não acessa bancos e não usa dados pessoais reais.
+O Jorge não é um consultor financeiro, não movimenta dinheiro, não acessa bancos e não usa dados pessoais reais.
