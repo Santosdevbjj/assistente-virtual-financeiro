@@ -350,7 +350,11 @@ O projeto também evidencia uma diferença importante entre protótipo e produç
 
 O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md). O desafio orienta dividir a apresentação entre problema, solução, demonstração e diferencial/impacto. fileciteturn1file8L548-L568
 
-## 15. Limitações
+## 15. Arquitetura
+
+ [`assets/architecture.mmd`](assets/architecture.mmd)
+
+## 16. Limitações
 
 Este é um projeto de portfólio e demonstração técnica.
 
