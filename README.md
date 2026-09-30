@@ -353,7 +353,7 @@ O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md).
 
 ## 15. Jorge Assistente Financeiro - Funcionando
 
-[`https://assistente-virtual-financeiro-com-ia.streamlit.app/`]
+https://assistente-virtual-financeiro-com-ia.streamlit.app/
 
 
 <p align="center">
