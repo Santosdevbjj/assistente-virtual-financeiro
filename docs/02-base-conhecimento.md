@@ -33,7 +33,7 @@ Na inicialização:
 
 ## Por que não colocar tudo no system prompt?
 
-O material do desafio mostra a injeção direta de dados como abordagem simples, mas observa que uma solução mais robusta pode consultar informações dinamicamente. fileciteturn2file12L719-L722
+O material do desafio mostra a injeção direta de dados como abordagem simples, mas observa que uma solução mais robusta pode consultar informações dinamicamente.
 
 Neste protótipo, o contexto é montado por uma camada intermediária para evitar que a interface ou o modelo manipulem diretamente os arquivos.
 
