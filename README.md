@@ -20,7 +20,7 @@
 
 Informações financeiras pessoais podem estar espalhadas entre transações, metas, perfil de risco e histórico de atendimento. O desafio não é apenas responder perguntas: é transformar esses dados em **contexto compreensível para apoiar educação e organização financeira**, sem inventar informações ou ultrapassar o limite de uma solução educacional.
 
-O projeto parte do desafio proposto no material `DIO`, que pede um assistente capaz de conversar com a pessoa usuária, compreender uma necessidade e responder com base em informações organizadas, com atenção especial a segurança e anti-alucinação. fileciteturn0file0L24-L32
+O projeto parte do desafio proposto no material `DIO`, que pede um assistente capaz de conversar com a pessoa usuária, compreender uma necessidade e responder com base em informações organizadas, com atenção especial a segurança e anti-alucinação.
 
 ## 2. Objetivo
 
@@ -36,7 +36,7 @@ Construir um protótipo funcional que:
 - bloqueia pedidos fora de escopo e solicitações de dados sensíveis;
 - separa fatos calculados pelo código da geração textual do LLM.
 
-O desafio original explicita que o assistente deve usar uma base de conhecimento, responder de forma simples e clara, evitar respostas inventadas e dizer quando não possui informação suficiente. fileciteturn1file0L41-L53
+O desafio original explicita que o assistente deve usar uma base de conhecimento, responder de forma simples e clara, evitar respostas inventadas e dizer quando não possui informação suficiente.
 
 ## 3. Caso de uso escolhido
 
@@ -71,7 +71,7 @@ A escolha é deliberada: o projeto evita transformar um protótipo educacional e
 - não inventa produtos, taxas ou dados;
 - não substitui profissional habilitado.
 
-O projeto de referência do desafio adota explicitamente a postura de ensinar, e não recomendar investimentos específicos. fileciteturn1file1L105-L119
+O projeto de referência do desafio adota explicitamente a postura de ensinar, e não recomendar investimentos específicos.
 
 ## 4. Baseline
 
@@ -88,7 +88,7 @@ Este projeto evolui esse baseline em três pontos:
 | Testes manuais | Testes automatizados + casos de avaliação |
 | Sem observabilidade de domínio | Metadados de fonte e decisões de segurança |
 
-O próprio material reconhece que simplesmente injetar os dados no prompt é uma abordagem inicial, enquanto soluções mais robustas podem consultar informações dinamicamente. fileciteturn2file12L719-L722
+O próprio material reconhece que simplesmente injetar os dados no prompt é uma abordagem inicial, enquanto soluções mais robustas podem consultar informações dinamicamente.
 
 ## 5. Estratégia da solução
 
@@ -120,7 +120,7 @@ Isso reduz a dependência de geração probabilística para operações que pode
 
 ## 6. Base de conhecimento
 
-O desafio disponibiliza quatro arquivos mockados: transações, histórico de atendimento, perfil do investidor e produtos financeiros. fileciteturn1file3L260-L267
+O desafio disponibiliza quatro arquivos mockados: transações, histórico de atendimento, perfil do investidor e produtos financeiros.
 
 Este repositório mantém esses quatro arquivos na pasta `data/`:
 
@@ -141,13 +141,13 @@ Escolhido porque concentra processamento de dados, aplicação web, testes e int
 
 ### Streamlit
 
-Escolhido para reduzir o tempo entre implementação e demonstração. O desafio sugere Streamlit ou Gradio para o chatbot. fileciteturn1file0L77-L82
+Escolhido para reduzir o tempo entre implementação e demonstração. O desafio sugere Streamlit ou Gradio para o chatbot.
 
 **Trade-off:** Streamlit simplifica a interface, mas não pretende ser a camada final de uma plataforma financeira de produção.
 
 ### Ollama
 
-O modo padrão pode usar LLM local. O material de referência demonstra esse caminho e destaca a vantagem de não enviar os dados mockados para uma API externa. fileciteturn1file6L403-L407
+O modo padrão pode usar LLM local. O material de referência demonstra esse caminho e destaca a vantagem de não enviar os dados mockados para uma API externa.
 
 **Trade-off:** execução local reduz exposição de dados, mas depende de recursos computacionais e de um modelo compatível instalado.
 
@@ -159,7 +159,7 @@ Regras de segurança não ficam exclusivamente no prompt. O código classifica p
 
 ### Sem LangChain na primeira versão
 
-O desafio apresenta LangChain, LangFlow e CrewAI como opções de orquestração. fileciteturn1file0L100-L112
+O desafio apresenta LangChain, LangFlow e CrewAI como opções de orquestração.
 
 A primeira versão não usa um framework de agentes porque o fluxo possui poucas etapas. Adicionar abstrações antes de existir uma necessidade operacional aumentaria o custo de manutenção.
 
@@ -288,7 +288,7 @@ O desafio propõe três métricas principais:
 - **Segurança:** evitou inventar informação?
 - **Coerência:** a resposta é compatível com o perfil e contexto?
 
-Essas três dimensões estão descritas no material do desafio. fileciteturn1file10L608-L623
+Essas três dimensões estão descritas no material do desafio.
 
 Este projeto acrescenta métricas técnicas:
 
@@ -348,10 +348,10 @@ O projeto também evidencia uma diferença importante entre protótipo e produç
 
 ## 14. Pitch
 
-O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md). O desafio orienta dividir a apresentação entre problema, solução, demonstração e diferencial/impacto. fileciteturn1file8L548-L568
+O roteiro de até três minutos está em [`docs/05-pitch.md`](docs/05-pitch.md). O desafio orienta dividir a apresentação entre problema, solução, demonstração e diferencial/impacto.
 
 
-## 15. Jorge Assistente Financeiro - Funcionando
+## 15. Jorge Assistente Financeiro - Imagens do Assistente
 
 https://assistente-virtual-financeiro-com-ia.streamlit.app/
 
@@ -394,7 +394,7 @@ Ele **não** deve ser usado para:
 - decisões automatizadas de crédito;
 - cumprimento de obrigações regulatórias de uma instituição financeira.
 
-A base de dados fornecida pelo desafio é fictícia e foi usada como material de demonstração. fileciteturn1file3L260-L267
+A base de dados fornecida pelo desafio é fictícia e foi usada como material de demonstração.
 
 ## Licença
 
