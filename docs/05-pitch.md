@@ -8,7 +8,7 @@ O desafio orienta um pitch dividido em problema, solução, demonstração e dif
 
 ## 0:30–1:30 — Solução
 
-> Eu construí o Nexo, um assistente virtual de educação financeira. Ele usa Streamlit na interface, Python na camada de domínio, dados mockados como base de conhecimento e Ollama como LLM local opcional.
+> Eu construí o Jorge, um assistente virtual de educação financeira. Ele usa Streamlit na interface, Python na camada de domínio, dados mockados como base de conhecimento e Ollama como LLM local opcional.
 >
 > A decisão arquitetural principal foi separar o que precisa ser determinístico do que pode ser generativo. O código calcula receitas, despesas, saldo e indicadores de metas. O modelo fica responsável pela interpretação e pela explicação.
 >
