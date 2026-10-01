@@ -1,6 +1,6 @@
 # 4. Avaliação e Métricas
 
-O desafio recomenda avaliação por testes estruturados e feedback real, usando assertividade, segurança e coerência como métricas principais. fileciteturn1file10L608-L626
+O desafio recomenda avaliação por testes estruturados e feedback real, usando assertividade, segurança e coerência como métricas principais.
 
 ## 4.1 Métricas funcionais
 
