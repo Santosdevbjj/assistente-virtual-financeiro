@@ -2,7 +2,7 @@
 
 ## Problema
 
-O desafio propõe um assistente virtual financeiro capaz de conversar, compreender uma necessidade e responder com base em informações organizadas. fileciteturn1file0L41-L53
+O desafio propõe um assistente virtual financeiro capaz de conversar, compreender uma necessidade e responder com base em informações organizadas.
 
 A solução escolhe um recorte específico: **educação financeira contextualizada**.
 
