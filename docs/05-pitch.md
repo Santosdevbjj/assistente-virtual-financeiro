@@ -1,6 +1,6 @@
 # 5. Pitch — 3 minutos
 
-O desafio orienta um pitch dividido em problema, solução, demonstração e diferencial/impacto. fileciteturn1file8L548-L568
+O desafio orienta um pitch dividido em problema, solução, demonstração e diferencial/impacto.
 
 ## 0:00–0:30 — Problema
 
