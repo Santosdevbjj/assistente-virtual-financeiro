@@ -88,7 +88,7 @@ flowchart TD
 - recusa de solicitações sensíveis;
 - recusa de assuntos fora do escopo.
 
-O desafio enfatiza que, no domínio financeiro, o agente não deve inventar informação e deve admitir quando não sabe. fileciteturn2file8L583-L590
+O desafio enfatiza que, no domínio financeiro, o agente não deve inventar informação e deve admitir quando não sabe.
 
 ## Limitações declaradas
 
